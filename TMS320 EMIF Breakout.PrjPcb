@@ -122,6 +122,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NAXSYMOU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TMS320 EMIF Breakout\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\Altium Libs\*.*
 IncludeSubFolders=1
